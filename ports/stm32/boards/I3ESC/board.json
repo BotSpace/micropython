@@ -1,0 +1,15 @@
+{
+    "deploy": [
+        "../deploy.md"
+    ],
+    "docs": "",
+    "features": [],
+    "images": [
+        "i3esc.jpg"
+    ],
+    "mcu": "stm32g4",
+    "product": "I3ESC",
+    "thumbnail": "",
+    "url": "https://www.alfredosys.com",
+    "vendor": "Alfredo Systems"
+}
